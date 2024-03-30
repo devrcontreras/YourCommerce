@@ -1,0 +1,17 @@
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Infrastructure/bin/Debug/net8.0/YourCommerce.Infrastructure.deps.json
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Infrastructure/bin/Debug/net8.0/YourCommerce.Infrastructure.dll
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Infrastructure/bin/Debug/net8.0/YourCommerce.Infrastructure.pdb
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Infrastructure/bin/Debug/net8.0/YourCommerce.Application.dll
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Infrastructure/bin/Debug/net8.0/YourCommerce.Domain.dll
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Infrastructure/bin/Debug/net8.0/YourCommerce.Domain.pdb
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Infrastructure/bin/Debug/net8.0/YourCommerce.Application.pdb
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Infrastructure/obj/Debug/net8.0/YourCommerce.Infrastructure.csproj.AssemblyReference.cache
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Infrastructure/obj/Debug/net8.0/YourCommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Infrastructure/obj/Debug/net8.0/YourCommerce.Infrastructure.AssemblyInfoInputs.cache
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Infrastructure/obj/Debug/net8.0/YourCommerce.Infrastructure.AssemblyInfo.cs
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Infrastructure/obj/Debug/net8.0/YourCommerce.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Infrastructure/obj/Debug/net8.0/YourComm.2D6D0AB6.Up2Date
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Infrastructure/obj/Debug/net8.0/YourCommerce.Infrastructure.dll
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Infrastructure/obj/Debug/net8.0/refint/YourCommerce.Infrastructure.dll
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Infrastructure/obj/Debug/net8.0/YourCommerce.Infrastructure.pdb
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Infrastructure/obj/Debug/net8.0/ref/YourCommerce.Infrastructure.dll

@@ -1,0 +1,15 @@
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Application/bin/Debug/net8.0/YourCommerce.Application.deps.json
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Application/bin/Debug/net8.0/YourCommerce.Application.dll
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Application/bin/Debug/net8.0/YourCommerce.Application.pdb
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Application/bin/Debug/net8.0/YourCommerce.Domain.dll
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Application/bin/Debug/net8.0/YourCommerce.Domain.pdb
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Application/obj/Debug/net8.0/YourCommerce.Application.csproj.AssemblyReference.cache
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Application/obj/Debug/net8.0/YourCommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Application/obj/Debug/net8.0/YourCommerce.Application.AssemblyInfoInputs.cache
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Application/obj/Debug/net8.0/YourCommerce.Application.AssemblyInfo.cs
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Application/obj/Debug/net8.0/YourCommerce.Application.csproj.CoreCompileInputs.cache
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Application/obj/Debug/net8.0/YourComm.A53CCDC6.Up2Date
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Application/obj/Debug/net8.0/YourCommerce.Application.dll
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Application/obj/Debug/net8.0/refint/YourCommerce.Application.dll
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Application/obj/Debug/net8.0/YourCommerce.Application.pdb
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Application/obj/Debug/net8.0/ref/YourCommerce.Application.dll

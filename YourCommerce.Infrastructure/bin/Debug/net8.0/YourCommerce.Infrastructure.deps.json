@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "YourCommerce.Infrastructure/1.0.0": {
+        "dependencies": {
+          "YourCommerce.Application": "1.0.0",
+          "YourCommerce.Domain": "1.0.0"
+        },
+        "runtime": {
+          "YourCommerce.Infrastructure.dll": {}
+        }
+      },
+      "YourCommerce.Application/1.0.0": {
+        "dependencies": {
+          "YourCommerce.Domain": "1.0.0"
+        },
+        "runtime": {
+          "YourCommerce.Application.dll": {}
+        }
+      },
+      "YourCommerce.Domain/1.0.0": {
+        "runtime": {
+          "YourCommerce.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YourCommerce.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YourCommerce.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YourCommerce.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
