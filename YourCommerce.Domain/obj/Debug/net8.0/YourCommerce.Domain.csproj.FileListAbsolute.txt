@@ -9,3 +9,5 @@
 /Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Domain/obj/Debug/net8.0/refint/YourCommerce.Domain.dll
 /Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Domain/obj/Debug/net8.0/YourCommerce.Domain.pdb
 /Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Domain/obj/Debug/net8.0/ref/YourCommerce.Domain.dll
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Domain/obj/Debug/net8.0/YourCommerce.Domain.csproj.AssemblyReference.cache
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Domain/obj/Debug/net8.0/YourCommerce.Domain.sourcelink.json

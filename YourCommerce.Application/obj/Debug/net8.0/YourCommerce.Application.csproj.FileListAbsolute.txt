@@ -13,3 +13,4 @@
 /Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Application/obj/Debug/net8.0/refint/YourCommerce.Application.dll
 /Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Application/obj/Debug/net8.0/YourCommerce.Application.pdb
 /Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Application/obj/Debug/net8.0/ref/YourCommerce.Application.dll
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Application/obj/Debug/net8.0/YourCommerce.Application.sourcelink.json
