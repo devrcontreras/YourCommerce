@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "2d6jH6Ch+SBlHJWgvODl6g+7tJZ8VGqJ4FNwbplFrUrfM8F0RI1xo+GcODhhNfkxLk8pCCcWyCK3vnjOp2dJ7g==",
+  "dgSpecHash": "MYVhHji1YxNBck/Ilre5QvtxMoXPXbHzXLWKyJYmcc5kTbiWx6CV0oNxAnYzMY+38yCQIe8RwuYztnw1GVv01Q==",
   "success": true,
   "projectFilePath": "/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Application/YourCommerce.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/rcontrerasnet/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/rcontrerasnet/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/rcontrerasnet/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

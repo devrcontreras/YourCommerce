@@ -37,3 +37,6 @@
 /Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.WebAPI/obj/Debug/net8.0/YourCommerce.WebAPI.pdb
 /Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.WebAPI/obj/Debug/net8.0/YourCommerce.WebAPI.genruntimeconfig.cache
 /Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.WebAPI/obj/Debug/net8.0/ref/YourCommerce.WebAPI.dll
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.WebAPI/bin/Debug/net8.0/MediatR.dll
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.WebAPI/bin/Debug/net8.0/MediatR.Contracts.dll
+/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.WebAPI/obj/Debug/net8.0/YourCommerce.WebAPI.sourcelink.json

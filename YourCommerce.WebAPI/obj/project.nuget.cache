@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "0sWcaA1CVqFl3/PAQTtgUQV8Re1cEXsqscYkFLHGiZe6AxEz7zcxWwDe/BOxpOyRxFY+JDMJFtvr/RVPyhq1ZA==",
+  "dgSpecHash": "oE3YiRSqRdstsyQ3B2THhHRL94mW8JvcEEPRUgtuFvgYS8snLSkxqd2PCGY53g8i4scKqOxYZqaP6+SvAZSJQQ==",
   "success": true,
   "projectFilePath": "/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.WebAPI/YourCommerce.WebAPI.csproj",
   "expectedPackageFiles": [
+    "/Users/rcontrerasnet/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/rcontrerasnet/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/rcontrerasnet/.nuget/packages/microsoft.aspnetcore.openapi/8.0.3/microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",
     "/Users/rcontrerasnet/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/rcontrerasnet/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "/Users/rcontrerasnet/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
     "/Users/rcontrerasnet/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "/Users/rcontrerasnet/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
