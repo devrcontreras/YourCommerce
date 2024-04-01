@@ -1,12 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "MYVhHji1YxNBck/Ilre5QvtxMoXPXbHzXLWKyJYmcc5kTbiWx6CV0oNxAnYzMY+38yCQIe8RwuYztnw1GVv01Q==",
+  "dgSpecHash": "D7Ltx4edkzXAsUOWItEOYqd9phDrhoJ5RDGHR6Yb3tcj9k8N2z8lhuNND+niY09JzqxJHNoNMQ8v0i/i1Cx21w==",
   "success": true,
   "projectFilePath": "/Users/rcontrerasnet/LearningSpace/YourCommerce/YourCommerce.Application/YourCommerce.Application.csproj",
   "expectedPackageFiles": [
+    "/Users/rcontrerasnet/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
+    "/Users/rcontrerasnet/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/rcontrerasnet/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "/Users/rcontrerasnet/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
     "/Users/rcontrerasnet/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
-    "/Users/rcontrerasnet/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "/Users/rcontrerasnet/.nuget/packages/microsoft.entityframeworkcore/8.0.3/microsoft.entityframeworkcore.8.0.3.nupkg.sha512",
+    "/Users/rcontrerasnet/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.3/microsoft.entityframeworkcore.abstractions.8.0.3.nupkg.sha512",
+    "/Users/rcontrerasnet/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.3/microsoft.entityframeworkcore.analyzers.8.0.3.nupkg.sha512",
+    "/Users/rcontrerasnet/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "/Users/rcontrerasnet/.nuget/packages/microsoft.extensions.caching.memory/8.0.0/microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "/Users/rcontrerasnet/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/rcontrerasnet/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/rcontrerasnet/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "/Users/rcontrerasnet/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/rcontrerasnet/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/rcontrerasnet/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
