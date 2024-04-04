@@ -1,4 +1,6 @@
+using ErrorOr;
 using MediatR;
+using YourCommerce.Domain.Primitives;
 
 namespace YourCommerce.Application.Customers.Create;
 
@@ -12,4 +14,4 @@ public record CreateCustomerCommand(
     string Street2,
     string City,
     string State,
-    string ZipCode) : IRequest<Unit>;
+    string ZipCode) : IRequest<ErrorOr<Unit>>;
