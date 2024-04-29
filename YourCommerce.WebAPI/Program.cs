@@ -9,6 +9,8 @@ builder.Services.AddWebAPI()
     .AddInfrastructure(builder.Configuration)
     .AddApplication();
 
+builder.Services.AddControllers();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -22,8 +24,6 @@ if (app.Environment.IsDevelopment())
 app.UseExceptionHandler("/error");
 
 app.UseHttpsRedirection();
-
-app.UseAuthorization();
 
 app.MapControllers();
 
