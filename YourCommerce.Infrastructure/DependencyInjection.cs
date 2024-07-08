@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using StackExchange.Redis;
 using YourCommerce.Application.Data;
 using YourCommerce.Domain.Customers;
 using YourCommerce.Domain.Primitives;
@@ -27,6 +28,10 @@ public static class DependencyInjection
         services.AddScoped<IUnitOfWork>(c => c.GetRequiredService<ApplicationDbContext>());
 
         services.AddScoped<ICustomerRepository, CustomerRepository>();
+
+        var multiplexer = ConnectionMultiplexer.Connect(configuration.GetConnectionString("RedisDb"));
+
+        services.AddSingleton<IConnectionMultiplexer>(multiplexer);
         
         return services;
 
