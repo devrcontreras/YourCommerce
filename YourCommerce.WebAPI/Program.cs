@@ -2,6 +2,7 @@ using YourCommerce.Application;
 using YourCommerce.Infrastructure;
 using YourCommerce.WebAPI;
 using YourCommerce.WebAPI.Extensions;
+using YourCommerce.WebAPI.Middlewares;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,6 +23,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseExceptionHandler("/error");
+
+app.UseMiddleware<GlobalExceptionHandlerMiddlerMiddleware>();
 
 app.UseHttpsRedirection();
 

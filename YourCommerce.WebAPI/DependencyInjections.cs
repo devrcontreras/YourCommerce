@@ -1,3 +1,5 @@
+using YourCommerce.WebAPI.Middlewares;
+
 namespace YourCommerce.WebAPI;
 
 public static class DependencyInjection
@@ -7,6 +9,7 @@ public static class DependencyInjection
     {
         services.AddEndpointsApiExplorer();
         services.AddSwaggerGen();
+        services.AddTransient<GlobalExceptionHandlerMiddlerMiddleware>();
         return services;
     }
 

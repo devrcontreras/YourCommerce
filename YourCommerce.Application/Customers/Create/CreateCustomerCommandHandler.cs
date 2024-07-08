@@ -20,8 +20,6 @@ internal sealed class CreateCustomerCommandHandler : IRequestHandler<CreateCusto
     
     public async Task<ErrorOr<Unit>> Handle(CreateCustomerCommand request, CancellationToken cancellationToken)
     {
-        try
-        {
 
             if(PhoneNumber.Create(request.PhoneNumber) is not PhoneNumber phoneNumber)
             {
@@ -49,10 +47,5 @@ internal sealed class CreateCustomerCommandHandler : IRequestHandler<CreateCusto
                 await _unitOfWork.SaveChangesAsync(cancellationToken);
 
                 return Unit.Value;
-        }
-        catch(Exception ex)
-        {
-            return Error.Failure("CreateCustomer.Failue", ex.Message);
-        }
     }
 }
