@@ -12,8 +12,12 @@ public class CustomerRepository : ICustomerRepository
     {
         _context = context ?? throw new ArgumentNullException(nameof(context));
     }
-    public async Task Add(Customer customer) => await _context.Customers.AddAsync(customer);
 
-    public Task<Customer?> GetByIdAsync(CustomerId id) => _context.Customers.SingleOrDefaultAsync(e => e.Id == id);
+    public void Add(Customer customer) => _context.Customers.Add(customer);
+    public void Delete(Customer customer) => _context.Customers.Remove(customer);
+    public void Update(Customer customer) => _context.Customers.Update(customer);
+    public async Task<bool> ExistsAsync(CustomerId id) => await _context.Customers.AnyAsync(customer => customer.Id == id);
+    public async Task<Customer?> GetByIdAsync(CustomerId id) => await _context.Customers.SingleOrDefaultAsync(c => c.Id == id);
+    public async Task<List<Customer>> GetAll() => await _context.Customers.ToListAsync();
     
 }

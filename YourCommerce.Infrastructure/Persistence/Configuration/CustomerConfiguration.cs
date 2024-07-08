@@ -13,7 +13,7 @@ public class CustomerConfiguration : IEntityTypeConfiguration<Customer>
         builder.HasKey(e => e.Id);
 
         builder.Property(e => e.Id).HasConversion(
-            CustomerId => CustomerId.value,
+            CustomerId => CustomerId.Value,
             value => new CustomerId(value)
         );
 

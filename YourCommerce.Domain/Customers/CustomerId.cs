@@ -1,3 +1,3 @@
 namespace YourCommerce.Domain.Customers;
 
-public record CustomerId(Guid value);
+public record CustomerId(Guid Value);
