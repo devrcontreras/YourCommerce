@@ -21,9 +21,9 @@ internal sealed class GetAllCustomersQueryHandler : IRequestHandler<GetAllCustom
     {
         const string KEY = "ALL_CUSTOMERS";
 
-        var values = await _redisRepository.GetCacheAsync<ErrorOr<IReadOnlyList<CustomerResponse>>>(KEY);
+        var values = await _redisRepository.GetCacheAsync<List<CustomerResponse>>(KEY);
 
-        if(!values.IsError)
+        if(values is not null)
         {
             return values;
         }
@@ -44,7 +44,7 @@ internal sealed class GetAllCustomersQueryHandler : IRequestHandler<GetAllCustom
                     customer.Active
             )).ToList();
 
-        await _redisRepository.SaveCacheAsync<ErrorOr<IReadOnlyList<CustomerResponse>>>(KEY, customersResponse);
+        await _redisRepository.SaveCacheAsync<List<CustomerResponse>>(KEY, customersResponse);
 
         return customersResponse;
 

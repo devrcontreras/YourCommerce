@@ -15,7 +15,7 @@ public class RedisRepository : IRedisRepository
 
     public async Task<T> GetCacheAsync<T>(string key)
     {
-        var redisDb = _redis.GetDatabase();
+        var redisDb = _redis.GetDatabase();        
         
         var json = await redisDb.StringGetAsync(key);
 

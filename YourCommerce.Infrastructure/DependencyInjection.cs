@@ -5,6 +5,7 @@ using StackExchange.Redis;
 using YourCommerce.Application.Data;
 using YourCommerce.Domain.Customers;
 using YourCommerce.Domain.Primitives;
+using YourCommerce.Domain.Redis;
 using YourCommerce.Infrastructure.Persistence;
 using YourCommerce.Infrastructure.Persistence.Repository;
 
@@ -28,6 +29,8 @@ public static class DependencyInjection
         services.AddScoped<IUnitOfWork>(c => c.GetRequiredService<ApplicationDbContext>());
 
         services.AddScoped<ICustomerRepository, CustomerRepository>();
+
+        services.AddScoped<IRedisRepository, RedisRepository>();
 
         var multiplexer = ConnectionMultiplexer.Connect(configuration.GetConnectionString("RedisDb"));
 
